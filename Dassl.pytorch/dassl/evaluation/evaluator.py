@@ -36,7 +36,7 @@ class Classification(EvaluatorBase):
         self._per_class_res = None
         self._y_true = []
         self._y_pred = []
-        self._y_probs = []  # 新增：存储每个样本的概率
+        self._y_probs = []  
         if cfg.TEST.PER_CLASS_RESULT:
             assert lab2cname is not None
             self._per_class_res = defaultdict(list)
@@ -46,15 +46,15 @@ class Classification(EvaluatorBase):
         self._total = 0
         self._y_true = []
         self._y_pred = []
-        self._y_probs = []  # 新增：重置概率列表
+        self._y_probs = []  
         if self._per_class_res is not None:
             self._per_class_res = defaultdict(list)
 
     def process(self, mo, gt):
         # mo (torch.Tensor): model output [batch, num_classes]
         # gt (torch.LongTensor): ground truth [batch]
-        probs = torch.softmax(mo, dim=1)  # 计算概率
-        self._y_probs.extend(probs.cpu().numpy().tolist())  # 存储概率
+        probs = torch.softmax(mo, dim=1) 
+        self._y_probs.extend(probs.cpu().numpy().tolist()) 
 
         pred = mo.max(1)[1]
         matches = pred.eq(gt).float()
@@ -78,8 +78,8 @@ class Classification(EvaluatorBase):
         kappa = cohen_kappa_score(self._y_true, self._y_pred, weights=None)#add kappa
         cm = confusion_matrix(self._y_true, self._y_pred)
         cm_norm = cm.astype('float')  / cm.sum(axis=1)[:,  np.newaxis] 
-        y_probs = np.array(self._y_probs)   # 转换为numpy数组 
-        specificity_class = [specificity(self._y_true==i, self._y_pred==i) for i in np.unique(self._y_true)]   # 需定义specificity函数 
+        y_probs = np.array(self._y_probs)   
+        specificity_class = [specificity(self._y_true==i, self._y_pred==i) for i in np.unique(self._y_true)]   
         auc_class = [roc_auc_score((self._y_true==i).astype(int), y_probs[:,i]) for i in np.unique(self._y_true)] 
         macro_f1 = 100.0 * f1_score(
             self._y_true,

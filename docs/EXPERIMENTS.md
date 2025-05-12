@@ -52,7 +52,7 @@ In this experiment, we use trained MedPromptCLIP models to perform few-shot lear
 You need to first train the MedPromptCLIP model, which is trained on Specific-modal Text Supervision setting, on the few-shot dataset using the script `scripts/MedPromptCLIP/fewshot.sh` 
 ```bash
 
-Now use the evaluation script `scripts/protext/dg_test.sh` and run the commands below to calculate the results for out of distribution datasets:
+Now use the evaluation script `scripts/MedPromptCLIP/fewshot.sh` and run the commands below to calculate the results for out of distribution datasets:
 ```bash
 bash scripts/MedPromptCLIP/fewshot.sh ODIR output/experiment/ODIR output/fewshot/ODIR
 bash scripts/MedPromptCLIP/fewshot.sh f1000images output/experiment/f1000images output/fewshot/f1000images
@@ -61,6 +61,14 @@ bash scripts/MedPromptCLIP/fewshot.sh OCT_C8 output/experiment/OCT_C8 output/few
 ```
 This should evaluate and save the log files in `output/fewshot/` directory. 
 
+### (4) zero-shot Evaluation
+
+To evaluate MedPromptCLIP on zero-shot setting, you need to first train the MedPromptCLIP model on the specific-modal text supervision setting on the target dataset. Then use the script `scripts/MedPromptCLIP/zero_shot.sh` and run the commands below to calculate the results for out of distribution datasets:
+```bash
+bash scripts/MedPromptCLIP/zero_shot.sh ODIR
+
+bash scripts/MedPromptCLIP/zero_shot_clip.sh ODIR 
+```
 
 
 

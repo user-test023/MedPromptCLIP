@@ -5,21 +5,13 @@ Foundational visual language models (VLMs) like CLIP are emerging as a new parad
 |---------------|-----------------------------------|------------------------------------|-----------------------|
 | MedCLIP       | $\checkmark$                      | $\times$                           | $\times$              |
 | PLIP          | $\checkmark$                      | $\times$                           | $\times$              |
-| FLAIR-$\pi$k  | $\checkmark$                      | $\times$                           | $\times$              |
+| FLAIR-$\pi$ k  | $\checkmark$                      | $\times$                           | $\times$              |
 | PMC-CLIP      | $\checkmark$                      | $\checkmark$                       | $\times$              |
 | UniMedCLIP    | $\checkmark$                      | $\checkmark$                       | $\times$              |
 | MedPromptCLIP | $\checkmark$                      | $\checkmark$                       | $\checkmark$          |
 
 ![performence](./docs/performance.png)
 ---
-
-
-## Acknowledgements
-
-Our code is based on [Protext](https://github.com/muzairkhattak/ProText). We thank the authors for releasing their code. And we achieve FFA dataset from [FFA-Synthesis
-](https://github.com/whq-xxh/FFA-Synthesis).
-
-
 
 
 ## Installation 
@@ -41,6 +33,8 @@ tokenizer = open_clip.get_tokenizer('hf-hub:ryanyip7777/pmc_vit_l_14')
 
 ## Prompt preparation
 You can prepare your own prompt or use the provided prompts in the `genprompt` directory. The specific-modality prompts are in the [specific_modal.py](genprompt/specific_modal.py), and the multi-modality prompts are in the [multi_modal.py](genprompt/multi_modal.py).
+
+You can also use the provided prompts in templates directory. 
 
 ## Experiment
 We conduct three experiment to demonstrate the effectiveness of MedPromptCLIP.Please follow the instructions [EXPERIMENTS.md](docs/EXPERIMENTS.md)

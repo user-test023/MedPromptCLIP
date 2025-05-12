@@ -33,7 +33,7 @@ MODEL:
   BACKBONE:
     NAME: "ViT-L/14_PMC"
 TRAINER:
-  PROTEXT:
+  MEDPROMPTCLIP:
     N_CTX_TEXT: 4
     CTX_INIT: "a fundus image of "
     PREC: "fp16"

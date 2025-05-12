@@ -1,3 +1,12 @@
 ftfy==6.1.1
 regex
 tqdm
+# Dependencies for visdom 0.1.8.9
+pyzmq
+scipy
+six
+tornado
+# Dependencies for imgviz 1.4.1
+matplotlib
+PyYAML
+opencv-python

@@ -33,7 +33,7 @@ MODEL:
     NAME: "ViT-B/16"
 
 TRAINER:
-  PROTEXT:
+  MEDPROMPTCLIP:
     N_CTX_TEXT: 4
     CTX_INIT: "a photo of a"
     PREC: "fp16"
