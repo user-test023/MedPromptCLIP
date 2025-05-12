@@ -1,15 +1,6 @@
 # MedPromptCLIP
 Foundational visual language models (VLMs) like CLIP are emerging as a new paradigm in vision due to their strong generalization capabilities. However, their application in the medical domain is limited by the lack of publicly accessible large-scale medical image-text datasets. Existing medical VLMs are typically constrained to single or few imaging modalities, hindering cross-modal adaptability. Soft prompt learning has become a prominent approach for adapting VLMs like CLIP to downstream tasks, but most methods rely on labeled data, which is often impractical to obtain and prone to overfitting, limiting generalization to new datasets. To address this, we propose MedPromptCLIP, a framework that leverages text-only prompt learning to adapt medical CLIP for zero-shot cross-modal disease classification. Specifically, by using large language models (LLMs) to generate detailed disease visual descriptions, such as “What are the visual features of glaucoma in fundus images?”, we train learnable prompt vectors to map standard class templates into a rich LLM-derived feature space, enabling zero-shot classification across imaging modalities (e.g., CT, MRI, fundus). To our knowledge, this is the first work to learn cross-modal prompts using purely text data. Extensive evaluations on diverse medical datasets demonstrate that MedPromptCLIP outperforms existing methods in base-to-new category transfer and zero-shot cross-modal transfer. Additionally, it can be combined with existing image-based prompt methods to further enhance recognition performance.
 
-| CLIP Models     | Zero-Shot Disease Classification | Cross-Modal Disease Classification | Do not require images |
-|-----------------|-----------------------------------|------------------------------------|-----------------------|
-| MedCLIP         | $\checkmark$                      | $\times$                           | $\times$              |
-| PLIP            | $\checkmark$                      | $\times$                           | $\times$              |
-| FLAIR-$\pi$k    | $\checkmark$                      | $\times$                           | $\times$              |
-| PMC-CLIP        | $\checkmark$                      | $\checkmark$                       | $\times$              |
-| UniMedCLIP      | $\checkmark$                      | $\checkmark$                       | $\times$              |
-| MedPromptCLIP   | $\checkmark$                      | $\checkmark$                       | $\checkmark$          |
-
 ![performence](./docs/performance.png)
 ---
 
