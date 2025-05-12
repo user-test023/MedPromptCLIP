@@ -1,0 +1,4508 @@
+{
+  "train": [
+    [
+      "Adenocarcinoma_chest/000093 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000121.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000054 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000117 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000026 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000129 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000069 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000102.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000115.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000104 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000129.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000097 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000044 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000119 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000020 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000148.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000166 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000020 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000108 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000063 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000054 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000125 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000105 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000050 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000065 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000018 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000078 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000015 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000115 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000048.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000066 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000108 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000048 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000021 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000024.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000148 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000046 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000147.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000160 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000086 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000115 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000057.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000157 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad17.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad12.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000098 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000163 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000100 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000146 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000135 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000122 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000089 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000025 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000130 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000118 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad11.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000079 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000117.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000083 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000176 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad19.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000171 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000114.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000120.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000104 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000121 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000005 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000081 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000109 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000122.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000084 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000139 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000160 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000087 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000050 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000022.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000055 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000173 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000074 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000118 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000115 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000091.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000126 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000143 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000174 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000044 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000132 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000057 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000165 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000106 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000016 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000024 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000022 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000109 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000097 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000127 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000091 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000118 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000035 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000065 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000138 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000114 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000085 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000027 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000059 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000143 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000093 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000022 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad3.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000097 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000139 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000000 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000167 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000158 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000171.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000067.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000117 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000158.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000123 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000068 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000110 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000066 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000024 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000138 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000041 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000102 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000031 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000134.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000151 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000015 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad6.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000119 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000166 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000022 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad15.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000132 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000133 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000009 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000085 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000023 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000136 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000107 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000139 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000158 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000137 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000095 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000041 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000124 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000093 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000177.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000087 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad20.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000014 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000049 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000164 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000042 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000029 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000017 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000105 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000026 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000173 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000149 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000124 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000161 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000134 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000121 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000123 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000172 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000140.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad21.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000119 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000106 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000029 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000125 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000116 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000146 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000071 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000035 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000005 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000033 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000054 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000121 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000024 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000148 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000063 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000035 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000148 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000137 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000017 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000058 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000156 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000109 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad4.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000092 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad18.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000137 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000035 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000034 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000112 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000116 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad8.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000116 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000109 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000040 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000032 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000134 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000141 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000021 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000106 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000158 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000116 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000167 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000144 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad13.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000102 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000090 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000102 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000067 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000058 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000123 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000084.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad9.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000021 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000116 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000049 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000072 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000153 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000068 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000072 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000106.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000019 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000069.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000095 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000015.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000034 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000084 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000158.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000047 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000055 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000009 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000150.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000041 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000159.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000115 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000073 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000018 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000106 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000115.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000002.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000128.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000130.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000068.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000056 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000162.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000039 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000055 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000118.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000033 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000031.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000126.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000094 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000093 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000051.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000098 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000114.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/l2.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000149.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000057.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000131 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000066.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000078 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000041.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000116.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000127 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000133.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000068 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/l5.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000109.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000111.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000062 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000010.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000124 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000133 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000171.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000058 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000043 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000093 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000084.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000042 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000057 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000016 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000056 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000076 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000131.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000115 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000098 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000094 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000163.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000169.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000097.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000016 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000174.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000118 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000020 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000065 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000154.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000009 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000024 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000078 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000159 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000148.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000170.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000068 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000062 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000113.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000059 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/l4.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000063.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000058 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000097 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000027.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000063 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/l1.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000136 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000046.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000173 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000003 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000060.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000137.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000111 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000108.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000122.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000095.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000080.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000128 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/l6.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000027 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000077.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000113 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000020 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000104 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000110.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000167 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000067 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000032.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000120 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000119.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000162.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000004 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000054 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000122 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000157 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000082 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000057 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000106 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000096.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000149 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000114 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000035 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000010 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000038 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000030 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000046 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000154 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000028 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000074 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000125.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000079.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000050 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000084 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000075.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000168 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000137 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000063.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000044 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000163 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000115 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000065 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000160 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000030 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000172 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000135 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000129 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000106 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000002 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000003.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000064 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000048 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000078 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000177 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000115 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000124.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000071 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000067 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000122 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000077 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000038 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000056 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000118 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000106 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000009 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/sq1.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000136 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000030 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000116 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000004 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000091 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000035.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000111.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000124 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000106 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000057 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000105 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000099 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000158 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000155 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000058.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000133 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000057 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000046 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/sq5.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000043.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000093.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000115 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000028 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000146 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000126 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000066.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000043 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000145 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000048 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000074 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000131 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000117 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000046 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000110 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000121 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000004 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000081 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000052 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000104 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000158 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000133 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000163 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000049 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000118 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000066 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000037 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000142 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000006.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000120 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000083 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000073 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000067 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000155.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000159 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000070.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000007 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000013 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000055 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000151.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000101 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000017 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000119 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000062 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000154 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000104.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000141 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000162 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000057 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000053 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000081.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000050 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000142 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000121 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000169 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000129 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/sq3.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000141 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000154 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000120 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000055 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000048.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000070 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000027 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000054.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000139 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000117 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000174 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000127 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000130 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000099 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000038 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000117 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000164 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000002 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000051 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000114 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000100 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000114 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000079 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000078 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000084 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000069 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000137.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000063 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000148 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000144 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000091 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/sq6.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000024 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000127.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000060 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000081 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000015 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000074 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000124 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000079 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "normal_chest/21 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/20 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/5 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/11 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/5 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/2 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/7 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/13 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n8 (2).jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/6.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/16 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/10 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/8 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/13 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/8.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/4 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/2 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/10.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/3 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/7 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/003828_02_01_174.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/6 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/19 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/17 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/21 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/13 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/16 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/5 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/12 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/12 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/5 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/20 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/16 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n6 (2).jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/4 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n9 (2).jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/8 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/17 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/6 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/19 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/2 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/13 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/4.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n7.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/6 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/19 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/normal - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/3 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/3.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/18 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/10 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/5 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/6 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/17 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/16 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/20 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/20 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/13.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/17 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/10 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/17 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/2 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/6 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/5 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/24.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/21 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n6 - Copy.jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n6.jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/23.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/10 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/5 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/11 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/19 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/8 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/10 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/11 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/16 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/2 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/8 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/10 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/7.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/19 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/18 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/4 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/17.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n9.jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/18.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/17 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/22.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/12 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/18 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n9 (2) - Copy.jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/7 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/16 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n8 (2) - Copy.jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/004007_01_01_519.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/18 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/7 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/4 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/3 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/5.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/21.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/2.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/6 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/normal.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/12 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/2 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/4 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/11 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/25.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/4 (2).png",
+      3,
+      "normal_chest"
+    ]
+  ],
+  "val": [
+    [
+      "Adenocarcinoma_chest/000065 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000015 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000098 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000108 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000119 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000075 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000157 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000086 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000036 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000128 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000163 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad16.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000052 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000112 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000051 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000115 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000056 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000020 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000132.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad1.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000083 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000027 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000008 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000040 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000105.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000113 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000142.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000036 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000050 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000085 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000149 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000023 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000155.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000077 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000013 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000114 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000139 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000161 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000149 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000132 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000096 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad2.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000125 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000054.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad7.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000131 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad5.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000023 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000061.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000148 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000104.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000066 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000039 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/l3.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000095 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000057 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000120.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000026 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000138 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000055.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000105 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000017.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000172.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000026.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000019 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000172 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000132 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000081.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000059 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000123.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000032.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000147 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000076 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000112.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000120 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000015 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000139 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000007.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000096 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000136 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000082 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000062 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000110 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000016 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000088.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000114 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000153 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000103.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000127 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000108 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000036 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000108 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000083 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000153.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000153 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000094.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000083 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/sq4.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000166 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000018 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000118 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000006 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000053.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000024 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000083 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000094 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000068 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000120 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000089 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000058 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000105 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "normal_chest/20 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/20 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/8 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/13 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/19 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/004162_01_01_150.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n9 - Copy.jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/19.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/11.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/7 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/17 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/21 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/10 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/8 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/12 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/11 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/3 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/12 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n8 - Copy.jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/18 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n7 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/12 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n7 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/2 (2).png",
+      3,
+      "normal_chest"
+    ]
+  ],
+  "test": [
+    [
+      "Adenocarcinoma_chest/000041 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000136 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000158 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000022 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000023 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000101 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000125 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000084 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000115 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000133 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000121 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000117 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000168 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000080 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000029 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000063 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000030 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad22.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000013 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000155 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000019 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000080 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000021 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000103 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000109 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000113.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000068 (10).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000139.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000144 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000111 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000021 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad14.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000041 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000040 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000125 (5).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/ad10.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000091 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000113 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000099 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000050 (8).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000177 (4).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000118 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000166 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000084 (2).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000009 (7).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000077 (6).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000145 (9).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000051 (3).png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Adenocarcinoma_chest/000095.png",
+      0,
+      "Adenocarcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000071 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000045.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000031 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000143.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000112.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000062.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000108 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000173.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000089.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000023 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000021.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000105.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000003 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000110 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000062 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/di1.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000033 (4).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000155.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000094 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000040 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000160.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000141.png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000041 (3).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000095 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Large_cell_carcinoma_chest/000154 (2).png",
+      1,
+      "Large_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000084 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000029 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000056 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000119 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000122.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000057 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/sq2.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000139 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000041 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000008 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000135.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000058 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000078.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000156 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000132 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000067 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000033.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000125 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000148 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000085.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000106 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000058 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000125 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000134 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000065 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000151 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000077 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000163 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000077 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000046 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000063 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000121.png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000090 (6).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000028 (7).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000117 (3).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000170 (2).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000116 (5).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "Squamous_cell_carcinoma_chest/000117 (4).png",
+      2,
+      "Squamous_cell_carcinoma_chest"
+    ],
+    [
+      "normal_chest/18 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/12.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/3 - Copy (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/24 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/13 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/16.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/11 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/11 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/3 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/7 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/3 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/18 - Copy (3).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n7 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/6 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/8 - Copy - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/19 - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/4 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/16 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/13 - Copy (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n6 (2) - Copy.jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/7 (2).png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/n8.jpg",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/20 (2) - Copy.png",
+      3,
+      "normal_chest"
+    ],
+    [
+      "normal_chest/20.png",
+      3,
+      "normal_chest"
+    ]
+  ]
+}

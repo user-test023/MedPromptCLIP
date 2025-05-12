@@ -1,0 +1,45 @@
+# Independent Vision Language Prompting
+DATALOADER:
+  TRAIN_X:
+    BATCH_SIZE: 2
+  TEST:
+    BATCH_SIZE: 2
+  NUM_WORKERS: 8
+
+INPUT:
+  SIZE: (224, 224)
+  INTERPOLATION: "bicubic"
+  PIXEL_MEAN: [0.48145466, 0.4578275, 0.40821073]
+  PIXEL_STD: [0.26862954, 0.26130258, 0.27577711]
+  TRANSFORMS: ["random_resized_crop", "random_flip", "normalize","brightness_enhancement"]
+  BRIGHTNESS_ALPHA: 1.8
+  BRIGHTNESS_BETA: 40    
+  BRIGHTNESS_P: 1.0    
+# 均值: [0.0368697  0.07215356 0.00188054]
+# 标准差: [0.03637776 0.05987065 0.00273739]
+OPTIM:
+  NAME: "adamw"
+  LR: 5e-6
+  MAX_EPOCH: 48
+  LR_SCHEDULER: "cosine"
+  WEIGHT_DECAY: 0.15
+  ADAM_BETA1: 0.9
+  ADAM_BETA2: 0.98
+
+TRAIN:
+  PRINT_FREQ: 20
+
+MODEL:
+  BACKBONE:
+    NAME: "ViT-L/14_PMC"
+
+TRAINER:
+  IVLP:
+    N_CTX_VISION: 4
+    N_CTX_TEXT: 4
+    CTX_INIT: "a SLO image of "
+    PREC: "fp16"
+    PROMPT_DEPTH_VISION: 9
+    PROMPT_DEPTH_TEXT: 9
+TEST:
+  COMPUTE_CMAT: True

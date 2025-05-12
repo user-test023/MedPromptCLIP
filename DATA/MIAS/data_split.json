@@ -1,0 +1,1658 @@
+{
+  "train": [
+    [
+      "mdb249.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb056.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb219.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb010.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb209.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb218.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb081.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb260.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb039.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb225.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb104.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb151.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb318.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb251.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb165.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb155.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb066.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb202.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb018.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb305.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb240.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb019.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb163.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb092.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb079.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb069.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb156.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb200.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb072.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb096.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb097.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb306.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb068.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb023.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb037.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb234.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb067.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb278.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb192.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb125.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb191.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb086.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb272.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb193.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb273.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb144.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb239.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb146.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb222.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb153.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb259.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb129.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb038.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb281.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb196.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb226.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb112.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb195.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb117.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb298.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb311.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb292.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb179.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb204.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb152.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb206.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb003.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb115.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb181.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb258.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb120.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb254.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb279.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb127.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb074.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb029.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb083.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb267.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb107.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb177.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb183.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb132.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb223.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb044.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb297.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb065.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb229.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb085.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb184.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb248.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb157.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb012.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb035.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb028.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb168.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb141.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb223.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb131.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb197.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb051.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb095.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb241.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb176.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb123.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb041.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb089.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb307.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb135.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb026.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb316.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb140.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb233.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb001.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb289.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb276.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb293.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb100.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb190.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb277.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb216.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb211.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb103.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb169.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb098.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb036.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb242.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb061.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb148.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb047.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb235.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb285.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb011.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb319.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb198.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb288.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb027.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb270.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb226.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb228.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb005.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb122.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb032.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb239.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb160.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb243.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb275.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb237.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb137.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb062.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb213.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb134.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb300.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb128.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb313.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb008.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb070.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb284.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb064.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb014.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb154.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb040.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb296.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb261.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb214.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb280.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb231.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb205.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb210.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb294.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb245.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb314.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb295.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb262.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb199.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb159.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb043.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb215.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb188.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb252.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb105.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb053.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb002.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb049.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb080.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb203.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb034.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb256.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb091.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb052.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb257.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb236.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb013.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb088.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb266.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb164.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb317.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb133.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb310.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb238.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb054.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb050.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb172.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb187.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb321.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb185.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb167.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb058.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb048.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb230.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb246.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb021.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb158.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb269.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb189.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb286.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb250.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb301.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb147.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb130.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb149.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb099.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb087.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb212.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb121.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb322.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb020.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb186.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb071.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb106.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb263.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb102.pgm",
+      3,
+      "Asymmetry"
+    ]
+  ],
+  "val": [
+    [
+      "mdb046.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb320.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb033.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb309.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb113.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb084.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb126.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb180.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb116.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb144.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb274.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb007.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb111.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb090.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb075.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb220.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb182.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb171.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb030.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb315.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb291.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb283.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb139.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb194.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb287.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb207.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb208.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb006.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb161.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb244.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb031.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb057.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb232.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb162.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb078.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb042.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb138.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb299.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb224.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb059.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb108.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb150.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb247.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb005.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb004.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb118.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb253.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb015.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb016.pgm",
+      1,
+      "Normal mammography scans"
+    ]
+  ],
+  "test": [
+    [
+      "mdb170.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb166.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb093.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb082.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb022.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb221.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb060.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb174.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb173.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb009.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb290.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb132.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb302.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb282.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb264.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb094.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb119.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb073.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb109.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb076.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb145.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb178.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb017.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb136.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb063.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb227.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb217.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb114.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb312.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb268.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb201.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb255.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb271.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb142.pgm",
+      0,
+      "Circumscribed masses"
+    ],
+    [
+      "mdb101.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb045.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb024.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb303.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb124.pgm",
+      4,
+      "Architectural distortion"
+    ],
+    [
+      "mdb226.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb265.pgm",
+      2,
+      "Other"
+    ],
+    [
+      "mdb304.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb077.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb249.pgm",
+      6,
+      "Calcification"
+    ],
+    [
+      "mdb175.pgm",
+      5,
+      "Spiculated masses"
+    ],
+    [
+      "mdb308.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb110.pgm",
+      3,
+      "Asymmetry"
+    ],
+    [
+      "mdb143.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb055.pgm",
+      1,
+      "Normal mammography scans"
+    ],
+    [
+      "mdb025.pgm",
+      0,
+      "Circumscribed masses"
+    ]
+  ]
+}
